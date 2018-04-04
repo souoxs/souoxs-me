@@ -1,4 +1,4 @@
-# Weclome to Souoxs Blog
+# Weclome
 
 > 欢迎来到souoxs blog,
 
